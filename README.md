@@ -23,6 +23,10 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Fast Parametric Ellipse Algorithm](https://arxiv.org/abs/2009.03434) - A Fast Parametric Ellipse Algorithm, Jerry R. Van Aken
 * [conic-draw](https://github.com/jvanaken1/conic-draw) - Pitteway's algorithm for drawing conic curves, Jerry R. Van Aken
 
+## Water Simulation
+
+* [WEBGL Water](http://madebyevan.com/webgl-water/) - WebGL Water Demo
+
 ## Miscellaneous
 *Useful libraries, tools or resources that don't fit in the categories above or maybe just not categorised yet*
 
