@@ -2,6 +2,8 @@
 
 A curated list of awesome computer graphics resources. Inspired by awesome-... stuff.
 
+## OpenGL
+ * [Learn OpenGL](https://learnopengl.com/) Learn OpenGL
 
 ## Digital Halftoning
 * [Dithering Eleven Algorithms](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html) - Eleven Algorithms and Source Code
@@ -35,3 +37,4 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Grafica Obscura](http://graficaobscura.com/) - A compilation of technical notes, pictures and essays.
 * [Computer Graphics Techniques](http://jcgt.org/) - The Journal of Computer Graphics Techniques peer-reviewed, open access, and free to all.
 * [Scratch A Pixel](https://www.scratchapixel.com/) - Foundations of 3D Rendering
+* [Physical Based Rendering Course](https://blog.selfshadow.com/publications/) Physical Based Rendering
