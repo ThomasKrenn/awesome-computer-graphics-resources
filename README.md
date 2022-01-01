@@ -38,3 +38,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Computer Graphics Techniques](http://jcgt.org/) - The Journal of Computer Graphics Techniques peer-reviewed, open access, and free to all.
 * [Scratch A Pixel](https://www.scratchapixel.com/) - Foundations of 3D Rendering
 * [Physical Based Rendering Course](https://blog.selfshadow.com/publications/) Physical Based Rendering
+
+## Blogs
+
+* [Alex Tardif](http://alextardif.com/LearningGraphics.html) Alex Tardif
