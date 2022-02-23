@@ -24,7 +24,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 
 * [Fast Parametric Ellipse Algorithm](https://arxiv.org/abs/2009.03434) - A Fast Parametric Ellipse Algorithm, Jerry R. Van Aken
 * [conic-draw](https://github.com/jvanaken1/conic-draw) - Pitteway's algorithm for drawing conic curves, Jerry R. Van Aken
-* [Ellipse Projection](http://https://static.laszlokorte.de/quad/) - A unit circle inscribed in the unit square projects to an ellipse inscribed in the quadrilateral.
+* [Ellipse Projection](https://static.laszlokorte.de/quad/) - A unit circle inscribed in the unit square projects to an ellipse inscribed in the quadrilateral.
 
 ## Water Simulation
 
