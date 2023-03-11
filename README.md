@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 *Scan Converting Lines*
 
 * [Line Drawing Alogrithm - Wikipedia](https://en.wikipedia.org/wiki/Line_drawing_algorithm)
-* [Bresenham](https://github.com/w8r/bresenham-zingl)
+* [Bresenham](https://github.com/w8r/bresenham-zingl) - Bresenham rasterisation functions by Alois Zingl
 
 ## Conic Section and Ellipse
 *Scan Converting Ellipses*
@@ -19,10 +19,10 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [conic-draw](https://github.com/jvanaken1/conic-draw) - Pitteways algorithm for drawing conic curves, Jerry R. Van Aken
 * [Ellipse Projection](https://static.laszlokorte.de/quad/) - A unit circle inscribed in the unit square projects to an ellipse inscribed in the quadrilateral.
 
-## Béziers
-*Rational Béziers, Cubic Bézier curves, Rational cubic Béziers*
+## BÃ©ziers
+*Rational BÃ©zier, Cubic BÃ©zier curves, Rational cubic BÃ©zier*
 
-* [Pomax Bezier](https://pomax.github.io/bezierinfo/) - A free, online book for when you really need to know how to do Bézier things.
+* [Pomax Bezier](https://pomax.github.io/bezierinfo/) - A free, online book for when you really need to know how to do BÃ©zier things.
 
 
 ## Antialiasing
@@ -34,11 +34,6 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 # Image Manipulation and Storage
 
 ## Image Processing
-
-* [Image Processing On Line] (http://www.ipol.im/) - IPOL is a research journal of image processing and image analysis
-* [Diffusion based image generative models](https://chitwansaharia.github.io/) - Diffusion based image generative models 
-* [Image Super-Resolution via Iterative Refinement] (https://iterative-refinement.github.io/) - Image Super-Resolution via Iterative Refinement
-* [Image Unshredding] (https://github.com/robinhouston/image-unshredding) - Image unshredding.
  
 ## JPEG and JPEG XL
 
@@ -56,18 +51,23 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [Modern-Digital-Halftoning](https://www.routledge.com/Modern-Digital-Halftoning/Lau-Arce/p/book/9781420047530) - Modern Digital Halftoning By Daniel L. Lau, Gonzalo R. Arce
 * [Blue- and Green-NoiseHalftoning Models](https://www.researchgate.net/publication/3321489_Blue_and_green_noise_halftoning_models) - Blue- and Green-NoiseHalftoning Models
 * [Druckraster](https://de.wikipedia.org/wiki/Druckraster) - Druckraster/Halftone
-* [Links on the art and algorithm of dithering] (https://dbohdan.com/wiki/dithering) - Links on the art and algorithm of dithering
-* [Ditherpunk] (https://surma.dev/things/ditherpunk/) - Ditherpunk — The article I wish I had about monochrome image dithering 
-* [dithering for quantization and sampling in video games] (https://bartwronski.com/2016/10/30/dithering-in-games-mini-series/) - Blog post series about various uses of dithering for quantization and sampling.
-* [a dither] (http://pippin.gimp.org/a_dither/) - a dither algorithm; small, spatially stable, based on magic numbers and arithmetic
-* [Dithering in computer graphics] (http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
-* [Dither Machine] (https://lunarlabs.itch.io/dither-machine) - Dither Machine
+* [Links on the art and algorithm of dithering] https://dbohdan.com/wiki/dithering) - Links on the art and algorithm of dithering
+* [Ditherpunk](https://surma.dev/things/ditherpunk/) - Ditherpunk  The article I wish I had about monochrome image dithering 
+* [dithering for quantization and sampling in video games](https://bartwronski.com/2016/10/30/dithering-in-games-mini-series/) - Blog post series about various uses of dithering for quantization and sampling.
+* [a dither](http://pippin.gimp.org/a_dither/) - a dither algorithm; small, spatially stable, based on magic numbers and arithmetic
+* [Dithering in computer graphics](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
+* [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Dither Machine
+
+* [Image Processing On Line] (http://www.ipol.im/) - IPOL is a research journal of image processing and image analysis
+* [Diffusion based image generative models](https://chitwansaharia.github.io/) - Diffusion based image generative models 
+* [Image Super-Resolution via Iterative Refinement] (https://iterative-refinement.github.io/) - Image Super-Resolution via Iterative Refinement
+* [Image Unshredding] (https://github.com/robinhouston/image-unshredding) - Image unshredding.
 
 # 3D computer graphics
 
 ## Raytracing
 
-* [Tiny Taytracer] (https://github.com/ssloy/tinyraytracer) - Tiny Raytracer 
+* [Tiny Taytracer](https://github.com/ssloy/tinyraytracer) - Tiny Raytracer 
 
 ## OpenGL
 
@@ -103,6 +103,8 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 ## Books
 
 * [Computer Graphics: Principles and Practice](https://cgpp.net/about.xml) - Computer Graphics: Principles and Practice, 3rd Edition
+* [Digital Halftoning](https://mitpress.mit.edu/9780262526470/digital-halftoning/) - Digital Halftoning by Robert Ulichney 
+
 
 ## Blogs
 
