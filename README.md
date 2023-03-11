@@ -74,11 +74,10 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 ### OpenGL
 
 * [Awsome OpenGL](https://github.com/eug/awesome-opengl) A curated list of awesome OpenGL libraries, debuggers and resources.
-* [Learn OpenGL][https://learnopengl.com/] - Online book for learning OpenGL
+* [Learn OpenGL](https://learnopengl.com/) - Online book for learning OpenGL
 * [WEBGL Water](http://madebyevan.com/webgl-water/) - WebGL Water Demo
 
 ## Miscellaneous
-* Useful libraries, tools or resources that don't fit in the categories above or maybe just not categorised yet *
 
 ### Graphics Gems
 
@@ -86,6 +85,7 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [Graphics Gems Github](https://github.com/erich666/GraphicsGems) - Official on-line repo for the code from the Graphics Gems.
 
 ### Digital Libraries, Journals and Online Courses
+
 * [Scratch A Pixel](https://www.scratchapixel.com/) - Foundations of 3D Rendering.
 * [Computer Graphics Techniques](http://jcgt.org/) - The Journal of Computer Graphics Techniques peer-reviewed, open access, and free to all.
 * [Grafica Obscura](http://graficaobscura.com/) - A compilation of technical notes, pictures and essays.
