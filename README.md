@@ -40,6 +40,6 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Scratch A Pixel](https://www.scratchapixel.com/) - Foundations of 3D Rendering
 * [Physical Based Rendering Course](https://blog.selfshadow.com/publications/) Physical Based Rendering
 
-## Blogs
+### Blogs
 
 * [Alex Tardif](http://alextardif.com/LearningGraphics.html) Alex Tardif
