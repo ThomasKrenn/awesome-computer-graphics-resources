@@ -33,9 +33,8 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 
 ## Image Manipulation and Storage
 
-### Image Processing
- 
 ### JPEG and JPEG XL
+* JPEG is a commonly used method of lossy compression for digital images *
 
 * [JPEG XL](https://jpeg.org/jpegxl/) - The JPEG XL Image Coding System (ISO/IEC 18181) 
 * [JPEG XL image format reference implementation](https://gitlab.com/wg1/jpeg-xl) - JPEG XL image format reference implementation.
