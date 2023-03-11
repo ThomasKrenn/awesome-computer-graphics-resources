@@ -57,10 +57,13 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [Dithering in computer graphics](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Dither Machine
 
+### Image Manipulation
+
 * [Image Processing On Line](http://www.ipol.im/) - IPOL is a research journal of image processing and image analysis
 * [Diffusion based image generative models](https://chitwansaharia.github.io/) - Diffusion based image generative models 
-* [Image Super-Resolution via Iterative Refinement] (https://iterative-refinement.github.io/) - Image Super-Resolution via Iterative Refinement
+* [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/) - Image Super-Resolution via Iterative Refinement
 * [Image Unshredding](https://github.com/robinhouston/image-unshredding) - Image unshredding.
+* [Perfectly Secure Steganography](https://arxiv.org/abs/2210.14889) - Perfectly Secure Steganography Using Minimum Entropy Coupling
 
 ## 3D computer graphics
 
