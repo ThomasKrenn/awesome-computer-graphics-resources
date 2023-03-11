@@ -2,8 +2,6 @@
 
 A curated list of awesome computer graphics resources. Inspired by awesome-... stuff.
 
-https://en.wikipedia.org/wiki/Spatial_anti-aliasing
-
 ## Basic Raster Graphics Algorithms for Drawing 2D Primitives
 
 ### Line Drawing
@@ -23,6 +21,8 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 *Rational Bézier, Cubic Bézier curves, Rational cubic Bézier*
 
 * [Pomax Bezier](https://pomax.github.io/bezierinfo/) - A free, online book for when you really need to know how to do Bézier things.
+* [From Bézier to Bernstein](http://www.ams.org/publicoutreach/feature-column/fcarc-bezier) -
+* [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
 
 
 ### Antialiasing
@@ -106,6 +106,7 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 
 * [Computer Graphics: Principles and Practice](https://cgpp.net/about.xml) - Computer Graphics: Principles and Practice, 3rd Edition
 * [Digital Halftoning](https://mitpress.mit.edu/9780262526470/digital-halftoning/) - Digital Halftoning by Robert Ulichney 
+* [Compressed Image File Formats](https://books.google.at/books/about/Compressed_Image_File_Formats.html?id=_nJLvY757dQC&redir_esc=y) Compressed Image File Formats (JPEG, PNG, GIF, XBM, BMP) by John Miano 
 
 
 ### Blogs
