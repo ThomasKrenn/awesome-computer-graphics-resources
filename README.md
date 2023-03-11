@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 ## Line Drawing
 *Scan Converting Lines*
 
-* [Line Drawing Alogrithm - Wikipedia](https://en.wikipedia.org/wiki/Line_drawing_algorithm)
+* [Line Drawing Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Line_drawing_algorithm)
 * [Bresenham](https://github.com/w8r/bresenham-zingl) - Bresenham rasterisation functions by Alois Zingl
 
 ## Conic Section and Ellipse
@@ -51,9 +51,9 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [Modern-Digital-Halftoning](https://www.routledge.com/Modern-Digital-Halftoning/Lau-Arce/p/book/9781420047530) - Modern Digital Halftoning By Daniel L. Lau, Gonzalo R. Arce
 * [Blue- and Green-NoiseHalftoning Models](https://www.researchgate.net/publication/3321489_Blue_and_green_noise_halftoning_models) - Blue- and Green-NoiseHalftoning Models
 * [Druckraster](https://de.wikipedia.org/wiki/Druckraster) - Druckraster/Halftone
-* [Links on the art and algorithm of dithering] https://dbohdan.com/wiki/dithering) - Links on the art and algorithm of dithering
+* [Links on the art and algorithm of dithering](https://dbohdan.com/wiki/dithering) - Links on the art and algorithm of dithering
 * [Ditherpunk](https://surma.dev/things/ditherpunk/) - Ditherpunk  The article I wish I had about monochrome image dithering 
-* [dithering for quantization and sampling in video games](https://bartwronski.com/2016/10/30/dithering-in-games-mini-series/) - Blog post series about various uses of dithering for quantization and sampling.
+* [Dithering for quantization and sampling in video games](https://bartwronski.com/2016/10/30/dithering-in-games-mini-series/) - Blog post series about various uses of dithering for quantization and sampling.
 * [a dither](http://pippin.gimp.org/a_dither/) - a dither algorithm; small, spatially stable, based on magic numbers and arithmetic
 * [Dithering in computer graphics](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Dither Machine
@@ -84,19 +84,19 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [Graphics Gems Github](https://github.com/erich666/GraphicsGems) - Official on-line repo for the code from the Graphics Gems.
 
 ## Digital Libraries, Journals and Online Courses
-* [Computer Graphics Techniques](http://jcgt.org/) - The Journal of Computer Graphics Techniques peer-reviewed, open access, and free to all.
 * [Scratch A Pixel](https://www.scratchapixel.com/) - Foundations of 3D Rendering.
+* [Computer Graphics Techniques](http://jcgt.org/) - The Journal of Computer Graphics Techniques peer-reviewed, open access, and free to all.
 * [Grafica Obscura](http://graficaobscura.com/) - A compilation of technical notes, pictures and essays.
 * [ACM](https://www.acm.org/) - ACM Digital Library has opened more than 117,500 articles published between 1951 and the end of 2000, during the first 50 years of its publishing program.
 * [Physical Based Rendering Course](https://blog.selfshadow.com/publications/) Physical Based Rendering
 
 ## Mathematics for Computer Graphics
 
-* [Computer Graphics & Vison Lab, Tsing Hua University] (https://cgv.cs.nthu.edu.tw/publications) - Publications
-* [cantorsparadise] (https://www.cantorsparadise.com/) - https://www.cantorsparadise.com/
-* [euler-math-toolbox] (http://euler-math-toolbox.de/) - http://euler-math-toolbox.de/
-* [walkingrandomly] (https://walkingrandomly.com/) - https://walkingrandomly.com/
-* [mathpuzzle links] (https://www.mathpuzzle.com/Links.html) - https://www.mathpuzzle.com/Links.html
+* [Computer Graphics & Vison Lab, Tsing Hua University](https://cgv.cs.nthu.edu.tw/publications) - Publications
+* [cantorsparadise](https://www.cantorsparadise.com/) - https://www.cantorsparadise.com/
+* [euler-math-toolbox](http://euler-math-toolbox.de/) - http://euler-math-toolbox.de/
+* [walkingrandomly](https://walkingrandomly.com/) - https://walkingrandomly.com/
+* [mathpuzzle links](https://www.mathpuzzle.com/Links.html) - https://www.mathpuzzle.com/Links.html
 * [Brian Hayes](http://bit-player.org/) - Brian Hayes, American scientist, columnist and author. 
 * [Brian Hayes, American Scientist](https://www.americanscientist.org/author/brian_hayes) - Brian Hayes, American Scientist.
 
