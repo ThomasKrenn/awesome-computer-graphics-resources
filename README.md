@@ -78,7 +78,7 @@ https://en.wikipedia.org/wiki/Spatial_anti-aliasing
 * [WEBGL Water](http://madebyevan.com/webgl-water/) - WebGL Water Demo
 
 ## Miscellaneous
-* Useful libraries, tools or resources that don't fit in the categories above or maybe just not categorised yet*
+* Useful libraries, tools or resources that don't fit in the categories above or maybe just not categorised yet *
 
 ### Graphics Gems
 
