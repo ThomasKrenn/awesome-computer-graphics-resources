@@ -8,6 +8,8 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 *Scan Converting Lines*
 
 * [Line Drawing Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Line_drawing_algorithm)
+* [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin) - Beyond textbook Bresenham
+* [Xiaolin Wu's line algorithm](https://en.wikipedia.org/wiki/Xiaolin_Wu%27s_line_algorithm) - Xiaolin Wu's line algorithm was presented in the article "An Efficient Antialiasing Technique" in the July 1991 issue of Computer Graphics
 * [Bresenham](https://github.com/w8r/bresenham-zingl) - Bresenham rasterisation functions by Alois Zingl
 
 ### Conic Section and Ellipse
@@ -30,6 +32,10 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Anti-aliasing Wikipedia](https://en.wikipedia.org/wiki/Spatial_anti-aliasing) - Spatial anti-aliasing EN
 * [Antialiasing Wikipedia DE](https://de.wikipedia.org/wiki/Antialiasing_(Computergrafik)) - Antialiasing DE
 
+### 2D Libraries
+
+* [Blend2d](https://github.com/blend2d/blend2d) Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license.
+* [Skia](https://skia.org/) Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms
 
 ## Image Manipulation and Storage
 
@@ -64,7 +70,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Image Super-Resolution via Iterative Refinement](https://iterative-refinement.github.io/) - Image Super-Resolution via Iterative Refinement
 * [Image Unshredding](https://github.com/robinhouston/image-unshredding) - Image unshredding.
 * [Perfectly Secure Steganography](https://arxiv.org/abs/2210.14889) - Perfectly Secure Steganography Using Minimum Entropy Coupling
-
+* [ThumbHash](https://evanw.github.io/thumbhash/) A very compact representation of an image placeholder.
 ## 3D computer graphics
 
 ### Raytracing
