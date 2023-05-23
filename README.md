@@ -67,7 +67,6 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [a dither](http://pippin.gimp.org/a_dither/) - a dither algorithm; small, spatially stable, based on magic numbers and arithmetic
 * [Dithering in computer graphics](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Dither Machine
-* [Monochrome Image Dithering](https://surma.dev/things/ditherpunk/) - The article I wish I had about monochrome image dithering 
 
 ### Image Manipulation
 
