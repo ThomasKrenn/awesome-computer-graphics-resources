@@ -23,8 +23,9 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 *Rational Bézier, Cubic Bézier curves, Rational cubic Bézier*
 
 * [Pomax Bezier](https://pomax.github.io/bezierinfo/) - A free, online book for when you really need to know how to do Bézier things.
-* [From Bézier to Bernstein](http://www.ams.org/publicoutreach/feature-column/fcarc-bezier) -
+* [From Bézier to Bernstein](http://www.ams.org/publicoutreach/feature-column/fcarc-bezier) - From Bézier to polynomials defined by Bernstein.
 * [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
+* [An Interactive Introduction](https://www.jezzamon.com/fourier/) - An Interactive Introduction to Fourier Transforms
 
 
 ### Antialiasing
@@ -35,7 +36,11 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 ### 2D Libraries
 
 * [Blend2d](https://github.com/blend2d/blend2d) Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license.
-* [Skia](https://skia.org/) Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms
+* [Skia](https://skia.org/) Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms.
+* [Anti-Grain Geometry AGG](https://agg.sourceforge.net) High Fidelity 2D Graphics
+* [libart](https://levien.com/libart/) Libart is a library for high-performance 2D graphics. It is currently being used as the antialiased rendering engine for the Gnome Canvas.
+* [geometry-central.net](https://github.com/nmwsharp/geometry-central) Applied 3D geometry in C++, with a focus on surface meshes.
+* [FastUIDraw](https://github.com/intel/fastuidraw) FastUIDraw is a library that provides a higher performance Canvas interface. It is designed so that it always draws using a GPU.
 
 ## Image Manipulation and Storage
 
@@ -62,6 +67,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [a dither](http://pippin.gimp.org/a_dither/) - a dither algorithm; small, spatially stable, based on magic numbers and arithmetic
 * [Dithering in computer graphics](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Dither Machine
+* [Monochrome Image Dithering](https://surma.dev/things/ditherpunk/) - The article I wish I had about monochrome image dithering 
 
 ### Image Manipulation
 
@@ -71,6 +77,8 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Image Unshredding](https://github.com/robinhouston/image-unshredding) - Image unshredding.
 * [Perfectly Secure Steganography](https://arxiv.org/abs/2210.14889) - Perfectly Secure Steganography Using Minimum Entropy Coupling
 * [ThumbHash](https://evanw.github.io/thumbhash/) A very compact representation of an image placeholder.
+* [Introduction To Fourier Transforms](https://www.cs.unm.edu/~brayer/vision/fourier.html) - Introduction To Fourier Transforms For Image Processing
+
 ## 3D computer graphics
 
 ### Raytracing
@@ -110,10 +118,10 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 
 ### Books
 
+* [Digital Image Processing](https://sde.uoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez,%20R.%20Woods-ilovepdf-compressed.pdf) - Rafael C. Gonzalez, Richard E. Woods - Digital Image Processing
 * [Computer Graphics: Principles and Practice](https://cgpp.net/about.xml) - Computer Graphics: Principles and Practice, 3rd Edition
 * [Digital Halftoning](https://mitpress.mit.edu/9780262526470/digital-halftoning/) - Digital Halftoning by Robert Ulichney 
 * [Compressed Image File Formats](https://books.google.at/books/about/Compressed_Image_File_Formats.html?id=_nJLvY757dQC&redir_esc=y) Compressed Image File Formats (JPEG, PNG, GIF, XBM, BMP) by John Miano 
-
 
 ### Blogs
 
