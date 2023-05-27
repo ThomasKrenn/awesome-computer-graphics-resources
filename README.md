@@ -124,4 +124,5 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 
 ### Blogs
 
-* [Alex Tardif](http://alextardif.com/LearningGraphics.html) Alex Tardif
+* [Michael Fogleman](https://www.michaelfogleman.com/projects/) - Michael Fogleman
+* [Alex Tardif](http://alextardif.com/LearningGraphics.html) - Alex Tardif
