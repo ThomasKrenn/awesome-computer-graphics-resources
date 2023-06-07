@@ -68,7 +68,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Dithering in computer graphics](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/#dither) - Dithering in computer graphics
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Dither Machine
 
-### Image Manipulation
+### Image Processing
 
 * [Image Processing On Line](http://www.ipol.im/) - IPOL is a research journal of image processing and image analysis
 * [Diffusion based image generative models](https://chitwansaharia.github.io/) - Diffusion based image generative models 
@@ -77,6 +77,9 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Perfectly Secure Steganography](https://arxiv.org/abs/2210.14889) - Perfectly Secure Steganography Using Minimum Entropy Coupling
 * [ThumbHash](https://evanw.github.io/thumbhash/) A very compact representation of an image placeholder.
 * [Introduction To Fourier Transforms](https://www.cs.unm.edu/~brayer/vision/fourier.html) - Introduction To Fourier Transforms For Image Processing
+* [Mipmaps](https://en.wikipedia.org/wiki/Mipmap) - Mipmap; pre-calculated, optimized sequences of images
+* [OpenCV](https://opencv.org/) Open Source Computer Vision Library
+* [SOD](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html) An Embedded Computer Vision & Machine Learning Library
 
 ## 3D computer graphics
 
