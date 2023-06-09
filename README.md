@@ -80,6 +80,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [Mipmaps](https://en.wikipedia.org/wiki/Mipmap) - Mipmap; pre-calculated, optimized sequences of images
 * [OpenCV](https://opencv.org/) Open Source Computer Vision Library
 * [SOD](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html) An Embedded Computer Vision & Machine Learning Library
+* [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise#cite_note-Perlin:1985:IS:325165.325247-2) - Perlin noise
 
 ## 3D computer graphics
 
