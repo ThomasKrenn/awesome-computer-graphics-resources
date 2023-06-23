@@ -26,6 +26,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [From Bézier to Bernstein](http://www.ams.org/publicoutreach/feature-column/fcarc-bezier) - From Bézier to polynomials defined by Bernstein.
 * [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html)
 * [An Interactive Introduction](https://www.jezzamon.com/fourier/) - An Interactive Introduction to Fourier Transforms
+* [Bezier Curves on Hacker News](https://news.ycombinator.com/item?id=30100427) - Discussion about alternatives to Bezier curves.
 
 
 ### Antialiasing
