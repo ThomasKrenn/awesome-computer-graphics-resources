@@ -1,3 +1,5 @@
+http://roguetemple.com/z/hyper/dev.php
+
 # Awesome Computer Graphics Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome computer graphics resources. Inspired by awesome-... stuff.
@@ -52,6 +54,11 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [JPEG XL image format reference implementation](https://gitlab.com/wg1/jpeg-xl) - JPEG XL image format reference implementation.
 * [NanoJPEG](https://keyj.emphy.de/nanojpeg/) - NanoJPEG: a compact JPEG decoder.
 
+### PNG 
+* PNG is a raster-graphics file format that supports lossless data compression.*
+
+* [libpng](http://libpng.org/pub/png/) - libpng website
+* [OptiPNG](http://www.olegkikin.com/png_optimizers/) - Comparison of lossless PNG compression tools 
 
 ### Digital Halftoning
 
