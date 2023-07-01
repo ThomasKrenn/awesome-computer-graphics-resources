@@ -53,7 +53,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [NanoJPEG](https://keyj.emphy.de/nanojpeg/) - NanoJPEG: a compact JPEG decoder.
 
 ### PNG 
-* PNG is a raster-graphics file format that supports lossless data compression.*
+*PNG is a raster-graphics file format that supports lossless data compression.*
 
 * [libpng](http://libpng.org/pub/png/) - libpng website
 * [OptiPNG](http://www.olegkikin.com/png_optimizers/) - Comparison of lossless PNG compression tools 
