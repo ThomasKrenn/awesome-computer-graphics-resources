@@ -1,5 +1,3 @@
-http://roguetemple.com/z/hyper/dev.php
-
 # Awesome Computer Graphics Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome computer graphics resources. Inspired by awesome-... stuff.
@@ -126,6 +124,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 * [mathpuzzle links](https://www.mathpuzzle.com/Links.html) - https://www.mathpuzzle.com/Links.html
 * [Brian Hayes](http://bit-player.org/) - Brian Hayes, American scientist, columnist and author. 
 * [Brian Hayes, American Scientist](https://www.americanscientist.org/author/brian_hayes) - Brian Hayes, American Scientist.
+* [Hyperbolic Geometry](http://roguetemple.com/z/hyper/dev.php) - Hyperbolic Geometry
 
 ### Books
 
