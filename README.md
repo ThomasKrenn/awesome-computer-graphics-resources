@@ -50,6 +50,7 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 
 * [JPEG XL](https://jpeg.org/jpegxl/) - The JPEG XL Image Coding System (ISO/IEC 18181) 
 * [JPEG XL image format reference implementation](https://gitlab.com/wg1/jpeg-xl) - JPEG XL image format reference implementation.
+* [JPEGLI](https://github.com/libjxl/libjxl/tree/main/lib/jpegli) - Improved JPEG encoder and decoder implementation
 * [NanoJPEG](https://keyj.emphy.de/nanojpeg/) - NanoJPEG: a compact JPEG decoder.
 
 ### PNG 
