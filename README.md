@@ -138,3 +138,4 @@ A curated list of awesome computer graphics resources. Inspired by awesome-... s
 
 * [Michael Fogleman](https://www.michaelfogleman.com/projects/) - Michael Fogleman
 * [Alex Tardif](http://alextardif.com/LearningGraphics.html) - Alex Tardif
+* [GPVM](https://develop--gpvm-website.netlify.app/resources/) - Collection of graphics programming and adjacent resources
